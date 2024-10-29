@@ -33,7 +33,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://https://github.com/srichakra-d/transferx
+    git clone https://github.com/srichakra-d/transferx
     cd transferx
     ```
 
